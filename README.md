@@ -9,3 +9,5 @@ Aqui o segundo de muitos desafios à serem concluídos, fiz o desafio de acordo 
 - Javascript
 
 ### Links Úteis
+
+[link da aplicação](https://wellyngtonsouza.github.io/Shope-Home/)
